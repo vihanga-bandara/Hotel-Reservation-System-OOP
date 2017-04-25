@@ -1,0 +1,10 @@
+Room 1 is occupied by Vihanga
+Room 2 is empty
+Room 3 is empty
+Room 4 is empty
+Room 5 is empty
+Room 6 is empty
+Room 7 is empty
+Room 8 is empty
+Room 9 is empty
+Room 10 is empty
